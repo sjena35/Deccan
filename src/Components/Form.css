@@ -1,0 +1,50 @@
+select{
+    width: 100%;
+    border: 0px;
+    border-bottom: 1px solid;
+}
+
+input{
+    width: 100%;
+    border: 0px;
+    border-bottom: 1px solid;
+}
+
+textarea{
+    width: 100%;
+    border: 0px;
+    border-bottom: 1px solid;
+}
+.timezone{
+    width: 82%;
+}
+.date{
+    width: 47%;
+    display: inline;
+}
+
+.time{
+    width: 47%;
+    display: inline;
+    float: right;
+}
+
+.labeltime{
+    margin-left: 260px;
+}
+
+label{
+    display: inline;
+}
+
+/* .image-upload>input{
+    display: none;
+} */
+
+.image-upload{
+    border:1px dashed grey;
+    text-align: center;
+}
+.create{
+    margin-left: 70%;
+}
